@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Cartoon Cats/Scenes/Cat Shorthair.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 0
+    path: Assets/Scenes/DemoScene.unity
+    guid: 319dafa5c80f29f428dc1e0d03f04177
+  - enabled: 1
+    path: Assets/Scenes/Psychoeducation.unity
+    guid: 66cddb1e37faa3a46a0a5a8b3e35b5ee
+  - enabled: 1
+    path: Assets/Scenes/Exposure Scene.unity
+    guid: c726447524752024dbb41eb0e17f087b
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 36dfc47b9968f1b469b2ddac1b9bde16, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 282da3ba587d0984e96897253365392e, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 8b53928ad0a6de740b0065d30ed0dc12, type: 2}

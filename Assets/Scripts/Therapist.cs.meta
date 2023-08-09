@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: d7d3ac6098b270a44a08a1b110a9b7e4
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - T1: {fileID: 8300000, guid: 784470c48d3da9445b933d28cd0f97b1, type: 3}
+  - T2: {fileID: 8300000, guid: e0c6240e350725148a1619e446b31ffd, type: 3}
+  - T2A: {fileID: 8300000, guid: 1ed40346ade425b4da7631ea8b76aa2b, type: 3}
+  - T2B: {fileID: 8300000, guid: 531cc2c0a5d622241abe7fc230115a98, type: 3}
+  - T3: {fileID: 8300000, guid: 120f7b42bcdba594cae1833dd61897aa, type: 3}
+  - T3A: {fileID: 8300000, guid: c2c4cba272c561b4a83da738dce8817b, type: 3}
+  - T3B: {fileID: 8300000, guid: 43ed7d65a34eb754f9f48a0d2831b4d0, type: 3}
+  - T4: {fileID: 8300000, guid: bc1bdc8b00845284e9c8c8bbf9cf2dea, type: 3}
+  - T4A: {fileID: 8300000, guid: d469439d5377057439a0b4b55fabf90d, type: 3}
+  - T4B: {fileID: 8300000, guid: 38f1612558c1d114e81bac2e3a24be8f, type: 3}
+  - T4B2: {fileID: 8300000, guid: 15032af29db9a274ba395f623f032fbe, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
